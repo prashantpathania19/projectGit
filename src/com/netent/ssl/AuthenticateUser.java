@@ -1,3 +1,5 @@
+package com.netent.ssl;
+
 import javax.naming.Context;
 import javax.naming.directory.DirContext;
 import javax.naming.directory.SearchControls;
